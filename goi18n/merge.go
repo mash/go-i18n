@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/nicksnyder/go-i18n/i18n/bundle"
-	"github.com/nicksnyder/go-i18n/i18n/language"
-	"github.com/nicksnyder/go-i18n/i18n/translation"
+	"github.com/mash/go-i18n/i18n/bundle"
+	"github.com/mash/go-i18n/i18n/language"
+	"github.com/mash/go-i18n/i18n/translation"
 )
 
 type mergeCommand struct {

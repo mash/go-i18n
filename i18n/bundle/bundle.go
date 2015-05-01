@@ -9,8 +9,8 @@ import (
 
 	"path/filepath"
 
-	"github.com/nicksnyder/go-i18n/i18n/language"
-	"github.com/nicksnyder/go-i18n/i18n/translation"
+	"github.com/mash/go-i18n/i18n/language"
+	"github.com/mash/go-i18n/i18n/translation"
 )
 
 // TranslateFunc is a copy of i18n.TranslateFunc to avoid a circular dependency.
